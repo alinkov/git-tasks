@@ -4,5 +4,6 @@
   "car": "BMW",
   "sex": "male",
   "mail": "email@email",
-  "education": "Master’s degree"
+  "education": "Master’s degree",
+  "weight": 83.4
 }
