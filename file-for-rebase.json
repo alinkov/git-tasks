@@ -1,7 +1,7 @@
 {
   "name": "John",
-  "age": 31,
-  "car": null,
+  "age": 30,
+  "car": "BMW",
   "sex": "male",
   "mail": "email@email",
   "education": "Master’s degree",
