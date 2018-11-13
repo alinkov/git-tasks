@@ -10,6 +10,11 @@
   "age": 31,
 >>>>>>> HH-XXX Change age
   "car": null,
+<<<<<<< HEAD
   "sex": "male"
 >>>>>>> HH-XXX Add sex info
+=======
+  "sex": "male",
+  "mail": "email@email"
+>>>>>>> HH-XXX Add email
 }
