@@ -1,9 +1,14 @@
 {
+<<<<<<< HEAD
   "name": "Johny",
   "age": 30,
 <<<<<<< HEAD
   "car": "BMW"
 =======
+=======
+  "name": "John",
+  "age": 31,
+>>>>>>> HH-XXX Change age
   "car": null,
   "sex": "male"
 >>>>>>> HH-XXX Add sex info
