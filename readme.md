@@ -20,7 +20,7 @@
 ## Задача 7
 * Добавить тег на любой свой коммит в предудыщих задачах (добавить информацию об этом в Pull Request)
 ## Задача 8
-* Необходимо добавить какой-нибудь файл в InitialCommit в ветке **HH-ADD-FILE** и сделать Pull Request результирующей ветки в **task6**
+* Необходимо добавить какой-нибудь файл в InitialCommit в ветке **HH-ADD-FILE** и сделать Pull Request результирующей ветки в **task8**
 ## Решения
 Решения по задачам должны быть оформлены в виде PullRequest. В заголовке должно быть ФИО и номер задачи.
 ## Результаты
@@ -29,7 +29,7 @@
 ## P.S. ссылки из лекции
  - [основной сайт git](https://git-scm.com)
  - [официальная книжка про git](https://git-scm.com/book)
- - [интерактивное знакомство с git]()https://githowto.com)
+ - [интерактивное знакомство с git](https://githowto.com)
  - [генератор gitignore](https://www.gitignore.io)
  - [игра git](https://learngitbranching.js.org) 
  - [работа с GitHub](https://github.com/asmeurer/git-workflow)
