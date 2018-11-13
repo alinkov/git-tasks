@@ -1,6 +1,7 @@
 <note>
     <to>Tove</to>
     <from>Jani</from>
-    <heading>Reminder</heading>
+    <heading>Positive reminder</heading>
     <body>Don't forget me this weekend!</body>
+    <arg2>This is arg2</arg2>
 </note>
