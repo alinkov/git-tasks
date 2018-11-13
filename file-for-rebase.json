@@ -15,6 +15,11 @@
 >>>>>>> HH-XXX Add sex info
 =======
   "sex": "male",
+<<<<<<< HEAD
   "mail": "email@email"
 >>>>>>> HH-XXX Add email
+=======
+  "mail": "email@email",
+  "education": "Master’s degree"
+>>>>>>> HH-XXX Add education
 }
