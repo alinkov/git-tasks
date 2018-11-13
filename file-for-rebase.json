@@ -2,5 +2,6 @@
   "name": "John",
   "age": 31,
   "car": null,
-  "sex": "male"
+  "sex": "male",
+  "mail": "email@email"
 }
