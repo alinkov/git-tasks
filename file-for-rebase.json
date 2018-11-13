@@ -1,6 +1,7 @@
 {
   "name": "John",
   "age": 31,
-  "car": "BMW"
-  "sex": "male"
+  "car": "BMW",
+  "sex": "male",
+  "mail": "email@email"
 }
