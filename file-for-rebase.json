@@ -1,5 +1,10 @@
 {
   "name": "Johny",
   "age": 30,
+<<<<<<< HEAD
   "car": "BMW"
+=======
+  "car": null,
+  "sex": "male"
+>>>>>>> HH-XXX Add sex info
 }
