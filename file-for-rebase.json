@@ -20,6 +20,11 @@
 >>>>>>> HH-XXX Add email
 =======
   "mail": "email@email",
+<<<<<<< HEAD
   "education": "Master’s degree"
 >>>>>>> HH-XXX Add education
+=======
+  "education": "Master’s degree",
+  "weight": 83.4
+>>>>>>> HH-XXX Add weight info
 }
