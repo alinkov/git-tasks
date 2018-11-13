@@ -3,5 +3,6 @@
   "car": "BMW",
   "age": 31,
   "sex": "male",
-  "mail": "email@email"
+  "mail": "email@email",
+  "education": "Master’s degree"
 }
