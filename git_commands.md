@@ -76,6 +76,16 @@ $ git rm [file or folder]
 $ git mv [from] [to]
 ```
 
+## Работа с ветками
+#### Создать новую ветку от текущей ветки
+```sh
+$ git branch [new branch name]
+```
+#### Создать новую ветку от текущей ветки и сразу перейти на неё
+```sh
+$ git checkout -b [new branch name]
+```
+
 ## Полезные ресурсы
 * [https://git-scm.com](https://git-scm.com) - основная страница git
 * [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) - Книга Майкла Хартла, посвященная Git с самых основ
