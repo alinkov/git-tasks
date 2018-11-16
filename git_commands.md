@@ -13,6 +13,10 @@ $ git config --global user.name [name]
 ```sh
 $ git config --global user.email [email]
 ```
+#### Установить подпись
+```sh
+$ git config --global user.signingkey [key]
+```
 #### Получить все настройки
 ```sh
 $ git config --list
