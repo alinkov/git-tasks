@@ -51,6 +51,10 @@ $ git clone [url] [folder_name]
 ```sh
 $ git remote add [repository_name] [url]
 ```
+#### Удалить удаленнный репозиторий
+```sh
+$ git remote remove [repository_name]
+```
 #### Просмотреть список удаленных репозиториев
 ```sh
 $ git remote -v
