@@ -1,4 +1,4 @@
-# Основные команды git
+﻿# Основные команды git
 
 ## Работа с конфигурацией
 Типы настроек (property_type):
@@ -89,6 +89,11 @@ $ git checkout -b [new branch name]
 #### Объединить <branch> c текущей веткой 
 ```sh
 $ git merge <branch> 
+```
+
+#### Извлечь данные из репозитория
+```sh
+$ git fetch [<options>] [<repository> [<refspec>…​]]
 ```
 
 ## Полезные ресурсы
