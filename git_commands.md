@@ -104,6 +104,11 @@ $ git checkout -b [new branch name]
 $ git merge <branch> 
 ```
 
+#### Извлечь данные из репозитория
+```sh
+$ git fetch [<options>] [<repository> [<refspec>…​]]
+```
+
 ## Полезные ресурсы
 * [https://git-scm.com](https://git-scm.com) - основная страница git
 * [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) - Книга Майкла Хартла, посвященная Git с самых основ
