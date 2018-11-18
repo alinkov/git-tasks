@@ -71,6 +71,12 @@ $ git status
 ```sh
 $ git add [file or folder]
 ```
+
+#### Интерактивное добавление изменений
+```sh
+$ git add -p
+```
+
 #### Удалить файл из репозитория
 ```sh
 $ git rm [file or folder]
