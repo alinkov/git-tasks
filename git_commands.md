@@ -26,6 +26,10 @@ $ git config --show-origin [property_name]
 ```sh
 $ git config [property_type] --unset [property_name]
 ```
+#### Открыть файл настроек в редакторе
+```sh
+$ git config --global -e
+```
 
 ## Работа с репозиторием
 
