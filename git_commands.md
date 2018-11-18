@@ -109,6 +109,12 @@ $ git merge <branch>
 $ git fetch [<options>] [<repository> [<refspec>…​]]
 ```
 
+## Работа с коммитами
+#### Просмотр истории коммитов
+```sh
+$ git log [<options>] [<revision range>] [[--] <path>...]
+```
+
 ## Полезные ресурсы
 * [https://git-scm.com](https://git-scm.com) - основная страница git
 * [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) - Книга Майкла Хартла, посвященная Git с самых основ
