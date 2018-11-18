@@ -1,0 +1,9 @@
+{
+  "name": "John",
+  "age": 31,
+  "car": null,
+  "sex": "male",
+  "mail": "email@email",
+  "education": "Master’s degree",
+  "weight": 83.4
+}
