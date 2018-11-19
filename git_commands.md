@@ -71,6 +71,12 @@ $ git status
 ```sh
 $ git add [file or folder]
 ```
+
+#### Интерактивное добавление изменений
+```sh
+$ git add -p
+```
+
 #### Удалить файл из репозитория
 ```sh
 $ git rm [file or folder]
@@ -94,6 +100,12 @@ $ git branch
 ```sh
 $ git branch [new branch name]
 ```
+
+#### Удалить ветку <branch>
+```sh
+$ git branch -d <branch>
+```
+
 #### Создать новую ветку от текущей ветки и сразу перейти на неё
 ```sh
 $ git checkout -b [new branch name]
@@ -107,6 +119,12 @@ $ git merge <branch>
 #### Извлечь данные из репозитория
 ```sh
 $ git fetch [<options>] [<repository> [<refspec>…​]]
+```
+
+## Работа с коммитами
+#### Просмотр истории коммитов
+```sh
+$ git log [<options>] [<revision range>] [[--] <path>...]
 ```
 
 #### Применить изменения из коммита к текущей ветке
