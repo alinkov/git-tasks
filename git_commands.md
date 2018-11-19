@@ -94,6 +94,12 @@ $ git branch
 ```sh
 $ git branch [new branch name]
 ```
+
+#### Удалить ветку <branch>
+```sh
+$ git branch -d <branch>
+```
+
 #### Создать новую ветку от текущей ветки и сразу перейти на неё
 ```sh
 $ git checkout -b [new branch name]
