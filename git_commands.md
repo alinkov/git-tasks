@@ -127,6 +127,11 @@ $ git fetch [<options>] [<repository> [<refspec>…​]]
 $ git log [<options>] [<revision range>] [[--] <path>...]
 ```
 
+#### Применить изменения из коммита к текущей ветке
+```sh
+$ git cherry-pick <commit-hash>
+```
+
 ## Полезные ресурсы
 * [https://git-scm.com](https://git-scm.com) - основная страница git
 * [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) - Книга Майкла Хартла, посвященная Git с самых основ
