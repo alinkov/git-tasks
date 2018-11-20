@@ -1,4 +1,4 @@
-# Основные команды git
+﻿# Основные команды git
 
 ## Работа с конфигурацией
 Типы настроек (property_type):
@@ -50,6 +50,10 @@ $ git clone [url] [folder_name]
 #### Добавить удаленный репозиторий
 ```sh
 $ git remote add [repository_name] [url]
+```
+#### Удалить удаленный репозиторий
+```sh
+$ git remote remove [repository_name] [url]
 ```
 #### Просмотреть список удаленных репозиториев
 ```sh
