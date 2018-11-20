@@ -79,11 +79,23 @@ $ git rm [file or folder]
 ```sh
 $ git mv [from] [to]
 ```
+#### Фиксация наших изменений
+```sh
+$ git commit -m "message"
+```
+#### Создать противоположный коммит
+```sh
+$ git revert [commit]
+```
 
 ## Работа с ветками
 #### Создать новую ветку от текущей ветки
 ```sh
 $ git branch [new branch name]
+```
+#### Перейти на ветку
+```sh
+$ git checkout [branch name]
 ```
 #### Создать новую ветку от текущей ветки и сразу перейти на неё
 ```sh
