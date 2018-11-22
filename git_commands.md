@@ -1,4 +1,4 @@
-﻿# Основные команды git
+# Основные команды git
 
 ## Работа с конфигурацией
 Типы настроек (property_type):
@@ -122,6 +122,11 @@ $ git fetch [<options>] [<repository> [<refspec>…​]]
 ```
 
 ## Работа с коммитами
+#### Фиксация изменений
+```sh
+$ git commit -m "[message]"
+```
+
 #### Просмотр истории коммитов
 ```sh
 $ git log [<options>] [<revision range>] [[--] <path>...]
