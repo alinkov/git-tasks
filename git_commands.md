@@ -136,6 +136,10 @@ $ git log [<options>] [<revision range>] [[--] <path>...]
 ```sh
 $ git cherry-pick <commit-hash>
 ```
+#### Создание коммита, который вносит изменения притивоположные изменениям предыдущего коммита
+```sh
+$ git revert <commit-hash>
+```
 
 ## Полезные ресурсы
 * [https://git-scm.com](https://git-scm.com) - основная страница git
