@@ -149,7 +149,7 @@ $ git cherry-pick <commit-hash>
 ```sh
 $ git revert <commit-hash>
 ```
-This is text command
+This is test commands
 
 ## Полезные ресурсы
 * [https://git-scm.com](https://git-scm.com) - основная страница git
