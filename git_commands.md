@@ -131,6 +131,11 @@ $ git fetch [<options>] [<repository> [<refspec>…​]]
 $ git commit -m "[message]"
 ```
 
+#### Фиксация изменений с подписью
+```sh
+$ git commit -S -m "[message]"
+```
+
 #### Просмотр истории коммитов
 ```sh
 $ git log [<options>] [<revision range>] [[--] <path>...]
