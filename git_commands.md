@@ -13,6 +13,10 @@ $ git config --global user.name [name]
 ```sh
 $ git config --global user.email [email]
 ```
+#### Включить подпись коммитов по умолчанию
+```sh
+$ git config --global commit.gpgsign true
+```
 #### Получить все настройки
 ```sh
 $ git config --list
