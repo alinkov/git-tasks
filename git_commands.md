@@ -127,6 +127,11 @@ $ git fetch [<options>] [<repository> [<refspec>…​]]
 $ git log [<options>] [<revision range>] [[--] <path>...]
 ```
 
+####  Перейти к состоянию проекта, соответствующему коммиту <cmt>
+``` sh
+$ git reset [<options>] [<cmt>]
+```
+
 ## Полезные ресурсы
 * [https://git-scm.com](https://git-scm.com) - основная страница git
 * [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) - Книга Майкла Хартла, посвященная Git с самых основ
