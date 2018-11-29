@@ -140,6 +140,11 @@ $ git commit -m "[message]"
 $ git commit -S -m "[message]"
 ```
 
+#### Возвращение к состоянию, соответствующее определенному коммиту
+```sh
+$ git reset [<options>] [<сommit-hash>]
+```
+
 #### Просмотр истории коммитов
 ```sh
 $ git log [<options>] [<revision range>] [[--] <path>...]
