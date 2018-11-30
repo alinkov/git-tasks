@@ -140,6 +140,11 @@ $ git commit -m "[message]"
 $ git commit -S -m "[message]"
 ```
 
+#### Создание коммита, который вносит изменения в предыдущий и заменяет его
+```sh
+$ git commit --amend -m "messege"
+```
+
 #### Просмотр истории коммитов
 ```sh
 $ git log [<options>] [<revision range>] [[--] <path>...]
@@ -149,9 +154,16 @@ $ git log [<options>] [<revision range>] [[--] <path>...]
 ```sh
 $ git cherry-pick <commit-hash>
 ```
+
 #### Создание коммита, который вносит изменения притивоположные изменениям предыдущего коммита
 ```sh
 $ git revert <commit-hash>
+```
+
+=======
+#### Создание коммита, который который объединит две ветки проекта, имеет два родителя
+```sh
+$ git merge <branch> 
 ```
 
 ## Полезные ресурсы
