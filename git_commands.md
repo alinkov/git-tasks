@@ -130,6 +130,11 @@ $ git fetch [<options>] [<repository> [<refspec>…​]]
 ```
 
 ## Работа с коммитами
+#### Индексирование изменений для последующего коммита
+```sh
+$ git add [file_name]
+```
+
 #### Фиксация изменений
 ```sh
 $ git commit -m "[message]"
