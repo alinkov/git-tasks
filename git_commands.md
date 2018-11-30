@@ -154,6 +154,11 @@ $ git cherry-pick <commit-hash>
 $ git revert <commit-hash>
 ```
 
+#### Cброс индекса и рабочего каталога до последнего состояния коммита
+```sh
+git reset --hard HEAD
+```
+
 ## Полезные ресурсы
 * [https://git-scm.com](https://git-scm.com) - основная страница git
 * [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) - Книга Майкла Хартла, посвященная Git с самых основ
