@@ -124,6 +124,11 @@ $ git checkout -b [new branch name]
 $ git merge <branch> 
 ```
 
+#### Запустить графическй инструмент для решения конфликтов 
+```sh
+$ git mergetool
+```
+
 #### Извлечь данные из репозитория
 ```sh
 $ git fetch [<options>] [<repository> [<refspec>…​]]
