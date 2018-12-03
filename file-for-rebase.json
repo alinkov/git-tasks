@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "Johny",
   "age": 31,
   "car": "BMW",
@@ -6,5 +6,4 @@
   "mail": "email@email",
   "education": "Master’s degree",
   "weight": 83.4
-
 }
