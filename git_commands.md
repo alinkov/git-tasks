@@ -133,7 +133,10 @@ $ git mergetool
 ```sh
 $ git fetch [<options>] [<repository> [<refspec>…​]]
 ```
-
+#### Отправить изменения в удаленный репозиторий
+```sh
+$ git push 
+```
 ## Работа с коммитами
 #### Фиксация изменений
 ```sh
@@ -169,10 +172,6 @@ $ git revert <commit-hash>
 git reset --hard HEAD
 ```
 
-#### Отправить изменения в удаленный репозиторий
-```sh
-$ git push 
-```
 
 ## Полезные ресурсы
 * [https://git-scm.com](https://git-scm.com) - основная страница git
