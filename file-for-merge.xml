@@ -1,0 +1,8 @@
+<note>
+    <to>Tony</to>
+    <from>Jani</from>
+    <heading>Reminder</heading>
+    <body>Don't forget me this weekend!</body>
+    <arg1>This is arg1</arg1>
+    <arg3>This is arg3</arg3>
+</note>
