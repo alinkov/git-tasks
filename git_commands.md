@@ -155,6 +155,12 @@ $ git reset [<options>] [<сommit-hash>]
 $ git log [<options>] [<revision range>] [[--] <path>...]
 ```
 
+#### Просмотр истории коммитов (with some decorations)
+```sh
+$ git log --graph --decorate --oneline
+```
+
+
 #### Применить изменения из коммита к текущей ветке
 ```sh
 $ git cherry-pick <commit-hash>
