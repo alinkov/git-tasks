@@ -174,3 +174,6 @@ git reset --hard HEAD
 * [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) - Книга Майкла Хартла, посвященная Git с самых основ
 * [Pro Git](https://git-scm.com/book/ru/v2) - великолепная книга Скотта Чакона и Бена Страуба про Git
 * [Git Internals](https://github.com/pluralsight/git-internals-pdf) - еще одна великолепная книга Скотта Чакона, посвященная Git
+## git stash
+
+`git stash` используется для временного сохранения всех изменений в рабочей директории, чтобы можно было переключиться на другую ветку, не совершая коммитов в текущей ветке.
