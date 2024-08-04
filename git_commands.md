@@ -5,6 +5,8 @@
 - Системная (`--system`)
 - Пользовательская (`--global`)
 - Для репозитория (`--local`)
+
+
 #### Установить имя
 ```sh
 $ git config --global user.name [name]
